@@ -1,0 +1,24 @@
+-----------------------------
+| Tabel Distribusi Frekuensi|
++---------------+-----------+
+| Interval      | Frekuensi |
+| 58 - 65       | 2         |
+| 66 - 73       | 1         |
+| 74 - 81       | 3         |
+| 82 - 89       | 2         |
+| 90 - 98       | 2         |
++---------------+-----------+
+-----------------------------
+| Keterangan                |
++-----------------+---------+
+| Jumlah Data     | 10      |
+| Nilai Maks      | 98      |
+| Nilai Min       | 58      |
+| Rata-Rata       | 78.3    |
+| Jangkauan       | 40      |
+| Kelas           | 5       |
+| Interval        | 8       |
+| Varians         | 146.456 |
+| Standar Deviasi | 12.102  |
+| Standar Error   | 3.827   |
++-----------------+---------+
